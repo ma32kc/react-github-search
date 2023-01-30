@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-github-search/static/css/main.c1cbb26b.css",
+    "main.js": "/react-github-search/static/js/main.bac2309b.js",
+    "index.html": "/react-github-search/index.html",
+    "main.c1cbb26b.css.map": "/react-github-search/static/css/main.c1cbb26b.css.map",
+    "main.bac2309b.js.map": "/react-github-search/static/js/main.bac2309b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cbb26b.css",
+    "static/js/main.bac2309b.js"
+  ]
+}
